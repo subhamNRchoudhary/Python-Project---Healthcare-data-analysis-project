@@ -32,15 +32,11 @@ The dataset used for this project can be found [here](https://docs.google.com/sp
 2. Install the required libraries using `pip install -r requirements.txt`
 3. Run the Jupyter notebook `notebooks/healthcare_data_analysis.ipynb`
 
-## Results
-The results of the analysis are provided in the form of visualizations and insights within the Jupyter notebook.
-```
+
 
 ### 2. healthcare_data_analysis.ipynb
 
-Here is the code that can be included in the Jupyter notebook:
 
-```python
 # Import necessary libraries
 import numpy as np
 import pandas as pd
