@@ -37,6 +37,12 @@ The dataset used for this project can be found [here](https://docs.google.com/sp
 ### 2. healthcare_data_analysis.ipynb
 
 
+
+### 2. healthcare_data_analysis.ipynb
+
+
+
+```python
 # Import necessary libraries
 import numpy as np
 import pandas as pd
@@ -100,7 +106,7 @@ conditions_gender.plot(kind='bar', stacked=True, figsize=(12, 8))
 plt.title('Medical Conditions by Gender')
 plt.savefig('../images/medical_conditions_by_gender.png')
 plt.show()
-```
+
 
 ### 3. requirements.txt
 
